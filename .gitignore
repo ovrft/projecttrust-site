@@ -1,0 +1,7 @@
+*__pycache__/
+*.DS_Store
+*.cache
+*.log
+*.vscode/
+*pelican/output
+bootstrap-examples
